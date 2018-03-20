@@ -10,6 +10,7 @@ Scripts: https://github.com/Silv3rPRO/proshine-scripts
 
 * [MoonSharp](http://www.moonsharp.org/) - Lua interpreter
 * [Json.NET](http://www.newtonsoft.com/json) - JSON framework
+*  Dont't forget Xamarin and it's libraries
 
 ## Credits
 
